@@ -1,3 +1,6 @@
+# App in-action:
+<img alt="projector"  src="https://media.giphy.com/media/ZZViDDqcezS7Irv778/giphy.gif" height="500px" >
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
